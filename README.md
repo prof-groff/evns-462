@@ -3,5 +3,3 @@ This repository houses data sets and other files associated with Environmental C
 
 Datasets:
 All datasets published here are publically available. Sources and descriptions are provided in the data/README.md file. Data files are not assumed to be covered by the MIT license.
-
-* cereal.csv - dowloaded 12/18/2017 from the [Kaggle](kaggle.com) public dataset repository. Credited to [Chris Crawford](https://www.kaggle.com/crawford)
