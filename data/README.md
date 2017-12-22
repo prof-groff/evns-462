@@ -1,9 +1,9 @@
 ## About Datasets
 
-Name: winmag-data-130k.csv
-Title 130k Wine Reviews from WineEnthusiast
-Source: Pulled from Kaggle.com on 12/21/2017, Attributed to zackthoutt, Released Under CC BY-NC-SA 4.0
-Descripiton: 130k wine reviews with variety, location, winery, price, and description
+Name: winmag-data-130k.csv</br>
+Title 130k Wine Reviews from WineEnthusiast</br>
+Source: Pulled from Kaggle.com on 12/21/2017, Attributed to zackthoutt, Released Under CC BY-NC-SA 4.0</br>
+Descripiton: 130k wine reviews with variety, location, winery, price, and description</br>
 
 The data consists of 10 fields:
 
