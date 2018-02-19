@@ -107,6 +107,11 @@ X3 = extension growth for type III </br>
 X4 = extension growth for type IV </br>
 X5 = extension growth for type V </br>
 
+Name: foxrabies.csv</br>
+Title: Fox Rabies</br>
+Source: Sayers, B., Medical Informatics, Vol. 2, 11-34</br>
+Description: The data represent the number of cases of red fox rabies for a random sample of 16 areas in each of two different regions of southern Germany.</br>
+
 Online data sources:</br>
 http://www.stat.ufl.edu/~winner/datasets.html</br>
 http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/tvds/frames/frame.html</br>
