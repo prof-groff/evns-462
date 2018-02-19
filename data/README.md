@@ -97,9 +97,9 @@ Source (NUFORC = Nationaol UFO Reporting Center, MUFON = Mutual UFO Network)</br
 USA (1=USA, 0=Not USA)</br>
 Test: Chi Square (Categorical/Nominal Data)</br>
 
-Name: appleroots.csv
-Title: Apple Orchard Experiment
-Source: S.C. Pearce, University of Kent at Canterbury, England
+Name: appleroots.csv </br>
+Title: Apple Orchard Experiment </br>
+Source: S.C. Pearce, University of Kent at Canterbury, England </br>
 Description: Five types of root-stock were used in an apple orchard grafting experiment. The following data represent the extension growth (cm) after four years. </br>
 X1 = extension growth for type I </br>
 X2 = extension growth for type II </br>
