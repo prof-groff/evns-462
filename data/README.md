@@ -1,5 +1,9 @@
 ## About Datasets
 
+Name: antarctic_ozone.csv</br>
+Source: NASA, https://ozonewatch.gsfc.nasa.gov/statistics/ytd_data.txt</br>
+Description: Data for the size of the ozone hole and the yearly minimum amount of ozone over Antarctica from 1979 through 2019.</br>
+
 Name: titanic_train.csv titanic_test.csv</br>
 Source: Pulled from Kaggle.com on 12/03/21018
 
