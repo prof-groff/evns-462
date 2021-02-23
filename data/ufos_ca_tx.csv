@@ -1,0 +1,296 @@
+,date,shape,location,state
+0,7/9/2016,Circle ,Lakeside ,CA
+1,7/7/2016,Circle ,Laguna Hills ,CA
+2,7/6/2016,Circle ,Lincoln and Roseville ,CA
+3,7/4/2016,Circle ,Elk Grove ,CA
+4,7/4/2016,Circle ,Channel Islands Point Magu ,CA
+5,6/30/2016,Circle ,Pacifica ,CA
+6,6/30/2016,Circle ,Pacifica ,CA
+7,6/20/2016,Circle ,San Ramon ,CA
+8,6/4/2016,Circle ,Fair Oaks ,CA
+9,5/28/2016,Circle ,Woodville ,TX
+10,4/26/2016,Circle ,Jarrell ,TX
+11,4/26/2016,Circle ,Barstow ,CA
+12,4/25/2016,Circle ,Barstow (I-15 Fwy) ,CA
+13,4/23/2016,Circle ,Maywood ,CA
+14,4/22/2016,Circle ,San Antonio ,TX
+15,4/16/2016,Circle ,Sacramento ,CA
+16,3/30/2016,Circle ,Maywood ,CA
+17,3/3/2016,Circle ,Huntington Beach ,CA
+18,2/29/2016,Circle ,Mojave ,CA
+19,2/14/2016,Circle ,Indio ,CA
+20,2/14/2016,Circle ,Lakewood ,CA
+21,2/12/2016,Circle ,La Porte ,TX
+22,2/10/2016,Circle ,Geyserville ,CA
+23,2/5/2016,Circle ,Costa Mesa ,CA
+24,2/4/2016,Circle ,Woodland Hills ,CA
+25,2/1/2016,Circle ,Los Angeles ,CA
+26,1/29/2016,Circle ,Burbank ,CA
+27,1/26/2016,Circle ,Rohnert Park ,CA
+28,1/23/2016,Circle ,Long Beach ,CA
+29,1/21/2016,Circle ,Clayton ,CA
+30,1/16/2016,Circle ,Sacramento ,CA
+31,1/15/2016,Circle ,Austin ,TX
+32,1/14/2016,Circle ,Santa Clarita ,CA
+33,1/14/2016,Circle ,North Hollywood ,CA
+34,1/8/2016,Circle ,Pasadena ,TX
+35,1/6/2016,Circle ,Goliad ,TX
+36,12/31/2015,Circle ,Bay City ,TX
+37,12/31/2015,Circle ,San Ysidro ,CA
+38,12/30/2015,Circle ,Santa Maria ,CA
+39,12/23/2015,Circle ,Modesto ,CA
+40,12/21/2015,Circle ,Fairfield ,CA
+41,12/12/2015,Circle ,Aliso Viejo ,CA
+42,9/15/2012,Circle ,Redding ,CA
+43,6/30/1961,Circle ,Dell City ,TX
+44,7/20/2016,Fireball ,Culver City ,CA
+45,6/30/2016,Fireball ,Placerville ,CA
+46,6/12/2016,Fireball ,Palo Alto ,CA
+47,6/11/2016,Fireball ,Laguna Niguel ,CA
+48,6/7/2016,Fireball ,Long Beach ,CA
+49,5/7/2016,Fireball ,Long Beach ,CA
+50,4/30/2016,Fireball ,El Paso ,TX
+51,4/30/2016,Fireball ,Newport Beach ,CA
+52,4/26/2016,Fireball ,Reseda ,CA
+53,4/26/2016,Fireball ,Costa Mesa ,CA
+54,4/22/2016,Fireball ,Whittier ,CA
+55,4/21/2016,Fireball ,San Antonio ,TX
+56,4/12/2016,Fireball ,Van Nuys ,CA
+57,4/7/2016,Fireball ,Bass Lake ,CA
+58,4/2/2016,Fireball ,Rowlett ,TX
+59,4/1/2016,Fireball ,Bakersfield ,CA
+60,3/31/2016,Fireball ,Shasta Lake ,CA
+61,3/27/2016,Fireball ,Bakersfield ,CA
+62,3/21/2016,Fireball ,Wylie and Rowlett ,TX
+63,3/20/2016,Fireball ,Santa Cruz ,CA
+64,3/17/2016,Fireball ,Chula Vista ,CA
+65,3/6/2016,Fireball ,Riverside ,CA
+66,3/6/2016,Fireball ,Goleta ,CA
+67,3/3/2016,Fireball ,Vallejo ,CA
+68,2/20/2016,Fireball ,San Luis Obispo ,CA
+69,2/11/2016,Fireball ,Laguna Beach ,CA
+70,2/11/2016,Fireball ,Costa Mesa ,CA
+71,2/11/2016,Fireball ,Palm Desert ,CA
+72,2/11/2016,Fireball ,Victorville ,CA
+73,2/11/2016,Fireball ,Santa Clarita ,CA
+74,2/11/2016,Fireball ,Whittier ,CA
+75,2/11/2016,Fireball ,Burbank ,CA
+76,2/5/2016,Fireball ,Austin ,TX
+77,1/29/2016,Fireball ,Cerritos ,CA
+78,1/23/2016,Fireball ,Spring ,TX
+79,1/18/2016,Fireball ,Bakersfield ,CA
+80,1/13/2016,Fireball ,Sutherlin ,CA
+81,1/3/2016,Fireball ,Chula Vista ,CA
+82,1/3/2016,Fireball ,Santee ,CA
+83,1/2/2016,Fireball ,Imperial Beach ,CA
+84,1/1/2016,Fireball ,Sacramento ,CA
+85,1/1/2016,Fireball ,Sacramento ,CA
+86,1/1/2016,Fireball ,Rancho Cucamonga ,CA
+87,12/31/2015,Fireball ,Menifee ,CA
+88,12/29/2015,Fireball ,Walnut Creek ,CA
+89,12/23/2015,Fireball ,Concord ,CA
+90,12/22/2015,Fireball ,Goleta ,CA
+91,12/22/2015,Fireball ,Menifee ,CA
+92,12/22/2015,Fireball ,Palm Springs ,CA
+93,12/22/2015,Fireball ,Bakersfield ,CA
+94,12/22/2015,Fireball ,Huntington Beach ,CA
+95,12/22/2015,Fireball ,Napa ,CA
+96,12/11/2015,Fireball ,Sacramento ,CA
+97,11/13/2015,Fireball ,Anaheim ,CA
+98,12/25/2014,Fireball ,Glendora ,CA
+99,9/23/2003,Fireball ,Carlsbad ,CA
+100,7/19/2016,Lights Only ,McKinney ,TX
+101,7/15/2016,Lights Only ,Colfax ,CA
+102,7/11/2016,Lights Only ,Murrieta ,CA
+103,7/10/2016,Lights Only ,Van Nuys ,CA
+104,7/7/2016,Lights Only ,Austin ,TX
+105,7/6/2016,Lights Only ,Redlands ,CA
+106,7/5/2016,Lights Only ,Denton ,TX
+107,7/4/2016,Lights Only ,Santa Barbara ,CA
+108,7/4/2016,Lights Only ,San Gabriel ,CA
+109,7/4/2016,Lights Only ,El Paso ,TX
+110,7/2/2016,Lights Only ,Kings Canyon National Parks ,CA
+111,7/2/2016,Lights Only ,Lafayette ,CA
+112,6/30/2016,Lights Only ,Santa Clarita ,CA
+113,6/30/2016,Lights Only ,Woodland Hills ,CA
+114,6/27/2016,Lights Only ,Palomar Mountain ,CA
+115,6/12/2016,Lights Only ,Redondo Beach ,CA
+116,6/12/2016,Lights Only ,Santa Fe Springs ,CA
+117,6/10/2016,Lights Only ,Chino ,CA
+118,6/8/2016,Lights Only ,Anaheim ,CA
+119,6/4/2016,Lights Only ,Santa Clarita ,CA
+120,6/3/2016,Lights Only ,Orange ,CA
+121,5/29/2016,Lights Only ,Abilene ,TX
+122,5/27/2016,Lights Only ,Sacramento ,CA
+123,5/25/2016,Lights Only ,Barstow ,CA
+124,5/21/2016,Lights Only ,San Diego ,CA
+125,5/21/2016,Lights Only ,Big Spring ,TX
+126,5/19/2016,Lights Only ,Dos Palos ,CA
+127,5/17/2016,Lights Only ,Kingsville ,TX
+128,5/14/2016,Lights Only ,Baldwin park ,CA
+129,5/11/2016,Lights Only ,soledad ,CA
+130,5/10/2016,Lights Only ,Willows ,CA
+131,5/4/2016,Lights Only ,Clovis ,CA
+132,4/30/2016,Lights Only ,San Diego ,CA
+133,4/20/2016,Lights Only ,Palmdale ,CA
+134,4/20/2016,Lights Only ,Leander-Jarrell ,TX
+135,4/16/2016,Lights Only ,Rosamond ,CA
+136,4/5/2016,Lights Only ,El Paso ,TX
+137,4/2/2016,Lights Only ,Folsom ,CA
+138,4/2/2016,Lights Only ,Riverside ,CA
+139,4/2/2016,Lights Only ,Tracy ,CA
+140,4/2/2016,Lights Only ,Navasota ,TX
+141,4/1/2016,Lights Only ,San Francisco ,CA
+142,4/1/2016,Lights Only ,San Jose ,CA
+143,3/28/2016,Lights Only ,Paradise ,CA
+144,3/26/2016,Lights Only ,Riverside ,CA
+145,3/26/2016,Lights Only ,North Hollywood ,CA
+146,3/24/2016,Lights Only ,Lorenzo ,TX
+147,3/17/2016,Lights Only ,Blocksburg ,CA
+148,3/16/2016,Lights Only ,Turlock ,CA
+149,3/14/2016,Lights Only ,Hesperia ,CA
+150,3/13/2016,Lights Only ,Huntington Beach ,CA
+151,3/13/2016,Lights Only ,Los Fresnos ,TX
+152,3/12/2016,Lights Only ,Paris ,TX
+153,3/8/2016,Lights Only ,Castaic ,CA
+154,3/5/2016,Lights Only ,Dallas ,TX
+155,3/5/2016,Lights Only ,Dallas ,TX
+156,3/5/2016,Lights Only ,Escondido ,CA
+157,3/1/2016,Lights Only ,Indio ,CA
+158,3/1/2016,Lights Only ,Fresno ,CA
+159,2/28/2016,Lights Only ,Rubidoux ,CA
+160,2/26/2016,Lights Only ,Lompoc ,CA
+161,2/25/2016,Lights Only ,Rancho Bernardo ,CA
+162,2/23/2016,Lights Only ,Riverside ,CA
+163,2/22/2016,Lights Only ,Tracy ,CA
+164,2/22/2016,Lights Only ,Bakersfield ,CA
+165,2/21/2016,Lights Only ,San Rafael ,CA
+166,2/19/2016,Lights Only ,Santa Rosa ,CA
+167,2/15/2016,Lights Only ,Newport Beach ,CA
+168,2/14/2016,Lights Only ,Santa Fe (on ranch) ,CA
+169,2/14/2016,Lights Only ,Ran home Santa Fe ,CA
+170,2/11/2016,Lights Only ,Anaheim ,CA
+171,2/11/2016,Lights Only ,Ramona ,CA
+172,2/11/2016,Lights Only ,Tustin ,CA
+173,2/11/2016,Lights Only ,San Diego ,CA
+174,2/11/2016,Lights Only ,South Gate ,CA
+175,2/11/2016,Lights Only ,San Diego ,CA
+176,2/11/2016,Lights Only ,Oxnard ,CA
+177,2/11/2016,Lights Only ,Salinas ,CA
+178,2/10/2016,Lights Only ,Garden Grove ,CA
+179,2/10/2016,Lights Only ,Arcata ,CA
+180,2/10/2016,Lights Only ,Kingsburg ,CA
+181,2/8/2016,Lights Only ,Hermosa Beach ,CA
+182,2/3/2016,Lights Only ,Salinas ,CA
+183,2/3/2016,Lights Only ,Austin ,TX
+184,1/30/2016,Lights Only ,Dickinson ,TX
+185,1/25/2016,Lights Only ,New Braunfels ,TX
+186,1/23/2016,Lights Only ,Huntington ,TX
+187,1/17/2016,Lights Only ,Angleton ,TX
+188,1/15/2016,Lights Only ,Round Rock ,TX
+189,1/9/2016,Lights Only ,Corona del Mar ,CA
+190,1/8/2016,Lights Only ,Susanville ,CA
+191,1/5/2016,Lights Only ,San Diego ,CA
+192,1/4/2016,Lights Only ,Citrus Heights ,CA
+193,1/4/2016,Lights Only ,Ventura ,CA
+194,1/4/2016,Lights Only ,Grand Terrace ,CA
+195,1/3/2016,Lights Only ,Childress ,TX
+196,1/2/2016,Lights Only ,,CA
+197,1/1/2016,Lights Only ,Elk Grove ,CA
+198,12/31/2015,Lights Only ,Clovis ,CA
+199,12/31/2015,Lights Only ,Selma ,CA
+200,12/27/2015,Lights Only ,Milpitas ,CA
+201,12/24/2015,Lights Only ,Oceanside ,CA
+202,12/22/2015,Lights Only ,Moorpark ,CA
+203,12/17/2015,Lights Only ,Ventura ,CA
+204,12/17/2015,Lights Only ,Petaluma ,CA
+205,12/6/2015,Lights Only ,Tracy ,CA
+206,11/28/2015,Lights Only ,Torrance ,CA
+207,10/8/2015,Lights Only ,Canadian ,TX
+208,10/2/2015,Lights Only ,Copperopolis ,CA
+209,7/4/2015,Lights Only ,San Mateo ,CA
+210,7/4/2015,Lights Only ,Mira Loma ,CA
+211,7/4/2015,Lights Only ,Redlands ,CA
+212,2/26/2015,Lights Only ,Rancho Cucamonga ,CA
+213,1/24/2015,Lights Only ,Irving ,TX
+214,7/25/2006,Lights Only ,Chula Vista ,CA
+215,12/23/2005,Lights Only ,Sabine Pass ,TX
+216,4/15/2005,Lights Only ,Irving ,TX
+217,1/13/1993,Lights Only ,Camp Pendleton ,CA
+218,7/15/2016,Orb/Sphere ,Denton ,TX
+219,7/2/2016,Orb/Sphere ,Friendswood ,TX
+220,6/29/2016,Orb/Sphere ,Long Beach ,CA
+221,6/26/2016,Orb/Sphere ,Garland ,TX
+222,6/23/2016,Orb/Sphere ,Oxnard ,CA
+223,6/11/2016,Orb/Sphere ,Sonoma ,CA
+224,6/8/2016,Orb/Sphere ,Indio ,CA
+225,5/21/2016,Orb/Sphere ,Claremont ,CA
+226,5/15/2016,Orb/Sphere ,Manteca ,CA
+227,5/12/2016,Orb/Sphere ,Torrance ,CA
+228,5/6/2016,Orb/Sphere ,Plano ,TX
+229,4/15/2016,Orb/Sphere ,Boerne ,TX
+230,4/10/2016,Orb/Sphere ,Lakeside ,CA
+231,4/2/2016,Orb/Sphere ,Long Beach ,CA
+232,3/30/2016,Orb/Sphere ,Sacramento ,CA
+233,3/27/2016,Orb/Sphere ,Los Angeles ,CA
+234,3/17/2016,Orb/Sphere ,Pine Grove ,CA
+235,2/15/2016,Orb/Sphere ,Houston ,TX
+236,2/14/2016,Orb/Sphere ,South Gate ,CA
+237,2/13/2016,Orb/Sphere ,Carpenteria ,CA
+238,2/9/2016,Orb/Sphere ,Laredo ,TX
+239,2/6/2016,Orb/Sphere ,Petaluma ,CA
+240,1/25/2016,Orb/Sphere ,San Diego ,CA
+241,1/24/2016,Orb/Sphere ,Ridgecrest ,CA
+242,1/23/2016,Orb/Sphere ,Concord ,CA
+243,1/21/2016,Orb/Sphere ,Burbank ,CA
+244,1/2/2016,Orb/Sphere ,El Cajon ,CA
+245,1/1/2016,Orb/Sphere ,Fortuna ,CA
+246,1/1/2016,Orb/Sphere ,,CA
+247,1/1/2016,Orb/Sphere ,Sacramento ,CA
+248,12/31/2015,Orb/Sphere ,,CA
+249,12/30/2015,Orb/Sphere ,Dallas ,TX
+250,12/24/2015,Orb/Sphere ,Los Angeles ,CA
+251,12/23/2015,Orb/Sphere ,Richardson ,TX
+252,12/22/2015,Orb/Sphere ,Susanville ,CA
+253,12/18/2015,Orb/Sphere ,Sonoma ,CA
+254,12/14/2015,Orb/Sphere ,San Jose ,CA
+255,8/13/2015,Orb/Sphere ,Berkeley ,CA
+256,7/4/2015,Orb/Sphere ,Sugar Land ,TX
+257,2/15/2015,Orb/Sphere ,Murrietta ,CA
+258,6/30/1994,Orb/Sphere ,Los Angeles ,CA
+259,8/3/1969,Orb/Sphere ,Napa ,CA
+260,7/15/2016,Triangle ,San diego ,CA
+261,7/9/2016,Triangle ,Spring ,TX
+262,6/26/2016,Triangle ,Cypress ,TX
+263,6/8/2016,Triangle ,Palm Springs ,CA
+264,4/26/2016,Triangle ,San Diego ,CA
+265,4/24/2016,Triangle ,Horizon City ,TX
+266,4/18/2016,Triangle ,Napa ,CA
+267,3/26/2016,Triangle ,El Paso ,TX
+268,3/25/2016,Triangle ,Reseda ,CA
+269,3/18/2016,Triangle ,Castro Valley ,CA
+270,3/17/2016,Triangle ,Castro Valley ,CA
+271,3/15/2016,Triangle ,Wichita Falls ,TX
+272,2/26/2016,Triangle ,Houston ,TX
+273,2/14/2016,Triangle ,Hayward ,CA
+274,2/13/2016,Triangle ,Port Hueneme ,CA
+275,2/11/2016,Triangle ,Temecula ,CA
+276,2/9/2016,Triangle ,Perris ,CA
+277,2/8/2016,Triangle ,Santa Cruz ,CA
+278,2/7/2016,Triangle ,Antelope ,CA
+279,2/6/2016,Triangle ,Temecula ,CA
+280,1/31/2016,Triangle ,Stanton ,TX
+281,1/23/2016,Triangle ,Azusa ,CA
+282,1/17/2016,Triangle ,San Francisco ,CA
+283,1/11/2016,Triangle ,Kingsburg ,CA
+284,1/4/2016,Triangle ,San Diego ,CA
+285,1/1/2016,Triangle ,Aptos ,CA
+286,12/28/2015,Triangle ,Glendale (La Crecenta) ,CA
+287,11/6/2015,Triangle ,Rancho Cucamonga ,CA
+288,7/4/2015,Triangle ,East Los Angeles ,CA
+289,10/27/2014,Triangle ,Houston ,TX
+290,8/23/2013,Triangle ,Hollister ,CA
+291,8/12/2000,Triangle ,Fresno ,CA
+292,12/15/1977,Triangle ,Milpitas (Morgan Hill?) ,CA
+293,10/15/1974,Triangle ,Big Sandy ,TX
+294,6/1/1964,Triangle ,Houston ,TX
