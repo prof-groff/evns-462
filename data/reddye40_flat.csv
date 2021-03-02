@@ -1,0 +1,39 @@
+treatment group,weeks till death
+X1 control,70
+X1 control,77
+X1 control,83
+X1 control,87
+X1 control,92
+X1 control,93
+X1 control,100
+X1 control,102
+X1 control,102
+X1 control,103
+X1 control,96
+X2 low dose,49
+X2 low dose,60
+X2 low dose,63
+X2 low dose,67
+X2 low dose,70
+X2 low dose,74
+X2 low dose,77
+X2 low dose,80
+X2 low dose,89
+X3 medium dose,30
+X3 medium dose,37
+X3 medium dose,56
+X3 medium dose,65
+X3 medium dose,76
+X3 medium dose,83
+X3 medium dose,87
+X3 medium dose,90
+X3 medium dose,94
+X3 medium dose,97
+X4 high dose,34
+X4 high dose,36
+X4 high dose,48
+X4 high dose,48
+X4 high dose,65
+X4 high dose,91
+X4 high dose,98
+X4 high dose,102
