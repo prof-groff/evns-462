@@ -124,3 +124,19 @@ http://www.stat.ufl.edu/~winner/datasets.html</br>
 http://college.cengage.com/mathematics/brase/understandable_statistics/7e/students/datasets/tvds/frames/frame.html</br>
 http://www.statsci.org/data/index.html</br>
 http://www.kaggle.com</br>
+
+Name: titanic.csv</br>
+Features</br>
+survival - Survival (0 = No; 1 = Yes)</br>
+class - Passenger Class (1 = 1st; 2 = 2nd; 3 = 3rd)</br>
+name - Name</br>
+sex - Sex</br>
+age - Age</br>
+sibsp - Number of Siblings/Spouses Aboard</br>
+parch - Number of Parents/Children Aboard</br>
+ticket - Ticket Number</br>
+fare - Passenger Fare</br>
+cabin - Cabin</br>
+embarked - Port of Embarkation (C = Cherbourg; Q = Queenstown; S = Southampton)</br>
+boat - Lifeboat (if survived)</br>
+body - Body number (if did not survive and body was recovered)</br>
