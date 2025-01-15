@@ -1,0 +1,72 @@
+﻿Set,Name,Number,HP,Rarity
+Base,Alakazam,1,80,Rare Holo
+Base,Blastoise,2,100,Rare Holo
+Base,Chansey,3,120,Rare Holo
+Base,Charizard,4,120,Rare Holo
+Base,Clefairy,5,40,Rare Holo
+Base,Gyarados,6,100,Rare Holo
+Base,Hitmonchan,7,70,Rare Holo
+Base,Machamp,8,100,Rare Holo
+Base,Magneton,9,60,Rare Holo
+Base,Mewtwo,10,60,Rare Holo
+Base,Nidoking,11,90,Rare Holo
+Base,Ninetales,12,80,Rare Holo
+Base,Poliwrath,13,90,Rare Holo
+Base,Raichu,14,80,Rare Holo
+Base,Venusaur,15,100,Rare Holo
+Base,Zapdos,16,90,Rare Holo
+Base,Beedrill,17,80,Rare
+Base,Dragonair,18,80,Rare
+Base,Dugtrio,19,70,Rare
+Base,Electabuzz,20,70,Rare
+Base,Electrode,21,80,Rare
+Base,Pidgeotto,22,60,Rare
+Base,Arcanine,23,100,Uncommon
+Base,Charmeleon,24,80,Uncommon
+Base,Dewgong,25,80,Uncommon
+Base,Dratini,26,40,Uncommon
+Base,Farfetch'd,27,50,Uncommon
+Base,Growlithe,28,60,Uncommon
+Base,Haunter,29,60,Uncommon
+Base,Ivysaur,30,60,Uncommon
+Base,Jynx,31,70,Uncommon
+Base,Kadabra,32,60,Uncommon
+Base,Kakuna,33,80,Uncommon
+Base,Machoke,34,80,Uncommon
+Base,Magikarp,35,30,Uncommon
+Base,Magmar,36,50,Uncommon
+Base,Nidorino,37,60,Uncommon
+Base,Poliwhirl,38,60,Uncommon
+Base,Porygon,39,30,Uncommon
+Base,Raticate,40,60,Uncommon
+Base,Seel,41,60,Uncommon
+Base,Wartortle,42,70,Uncommon
+Base,Abra,43,30,Common
+Base,Bulbasaur,44,40,Common
+Base,Caterpie,45,40,Common
+Base,Charmander,46,50,Common
+Base,Diglett,47,30,Common
+Base,Doduo,48,50,Common
+Base,Drowzee,49,50,Common
+Base,Gastly,50,30,Common
+Base,Koffing,51,50,Common
+Base,Machop,52,50,Common
+Base,Magnemite,53,40,Common
+Base,Metapod,54,70,Common
+Base,Nidoran,55,40,Common
+Base,Onix,56,90,Common
+Base,Pidgey,57,40,Common
+Base,Pikachu,58,40,Common
+Base,Poliwag,59,40,Common
+Base,Ponyta,60,40,Common
+Base,Rattata,61,30,Common
+Base,Sandshrew,62,40,Common
+Base,Squirtle,63,40,Common
+Base,Starmie,64,60,Common
+Base,Staryu,65,40,Common
+Base,Tangela,66,50,Common
+Base,Voltorb,67,40,Common
+Base,Vulpix,68,50,Common
+Base,Weedle,69,40,Common
+Jungle,Clefable,1,70,Rare Holo
+Base,Weedle,69,40,Common
